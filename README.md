@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- https://prettier.io/docs/en/comparison.html
+- https://create-react-app.dev/docs/setting-up-your-editor/#formatting-code-automatically
+- https://create-react-app.dev/docs/custom-templates
+
 ## Available Scripts
 
 In the project directory, you can run:
